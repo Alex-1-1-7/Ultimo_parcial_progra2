@@ -1,0 +1,6 @@
+com\mycompany\jsp_mysql\Nombre_Creadores_Proyecto.class
+com\mycompany\jsp_mysql\UsuarioDAO.class
+com\mycompany\jsp_mysql\ConexionDAO.class
+com\mycompany\jsp_mysql\servletusuario.class
+com\mycompany\jsp_mysql\EntidadUsuario.class
+com\mycompany\jsp_mysql\ServleException.class
